@@ -1,7 +1,6 @@
 # Hi there, I'm Luigi
 
-**Full-Stack Software Engineer & Systems Architect**
-*Building autonomous AI engines and production-ready SaaS platforms that solve real-world bottlenecks.*
+**Full-Stack Software Engineer & Systems Architect** <br> *Building autonomous AI engines and production-ready SaaS platforms that solve real-world bottlenecks.*
 
 ---
 
