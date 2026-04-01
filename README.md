@@ -1,47 +1,50 @@
-# Hi there! 👋
+# Hi there, I'm Luigi
 
-I'm a full-stack developer with a passion for building robust, scalable applications and creating seamless user experiences using cutting-edge technologies. My journey in tech is driven by an endless curiosity for innovation and a commitment to excellence.
+**Full-Stack Software Engineer & Systems Architect** *Building autonomous AI engines and production-ready SaaS platforms that solve real-world bottlenecks.*
 
-## What I'm Currently Working On 🚀
-I'm diving deep into the world of Next.js 14, working on a full-stack application built with tRPC that leverages its latest features. This experience is sharpening my skills in server-side rendering, static site generation, and API routes, making me well-versed in the powerful capabilities of Next.js 14. My goal is to master every aspect of it to build faster, more efficient web applications.
+---
 
-## My Expertise 🛠️
-### Frontend Frameworks
-I have substantial experience with Angular and React, creating dynamic and responsive user interfaces that provide the best user experience.
-### State Management
-Proficient in managing application state using Redux Toolkit, which simplifies writing Redux logic and streamlines state management practices.
-### GraphQL
-Skilled in using Apollo GraphQL for data management both on the client and server side, enabling efficient, declarative data fetching that enhances the performance of web applications.
-### Testing
-I am adept at ensuring the reliability and robustness of applications through testing with Jest and Cypress, covering unit, integration, and end-to-end tests to maintain high-quality code.
-### Backend and More
-Proficient in using Node.js libraries like Express and koa, together with database ORMs such as Mongoose and Sequelize.
+### 🚀 What I’m Working On
+* **Founder @ Automics:** Architecting intelligent automation engines to eliminate operational friction and transition businesses from manual chaos to scalable, high-performance systems.
+* **Lead Software Engineer @ Brandwave:** Scaling a multi-tenant AI workforce ecosystem. Building complex RAG systems and autonomous agents using **Next.js, Supabase, LangChain, and LangGraph**.
+* **AutoProps:** Developing an autonomous leasing logistics engine that automates the entire rental lifecycle—from 2 AM lead ingestion to property access coordination.
 
-## Continuous Learning 🌱
-I'm on a path of continuous improvement, currently expanding my knowledge in AWS to leverage cloud services for scalable, reliable, and secure applications. Understanding services like Amazon EC2, Lambda, S3, and DynamoDB, I aim to build cloud-native solutions that are both powerful and efficient.
+### 🧠 Core Expertise
+* **AI & Automation:** LangChain, LangGraph, RAG Systems, OpenAI/Gemini Integrations, Vector Databases.
+* **Modern Web Ecosystems:** TypeScript, Next.js (App Router), React 18, Node.js, Python (FastAPI).
+* **Data & Infrastructure:** PostgreSQL, Supabase, AWS (Lambda, S3, EC2), Docker, CI/CD, Microservices.
+* **Systems Architecture:** Multi-tenant SaaS, Event-driven workflows (Inngest), RBAC, and high-availability infrastructure.
 
-## Collaboration and Community 👯
-I'm eager to collaborate with a team of like-minded individuals on projects that challenge us to grow and innovate. I believe in the power of teamwork and shared knowledge to achieve remarkable results.
+### 🛠️ Tech Stack
+- **Frontend:** `React` `Next.js` `TypeScript` `TailwindCSS` `TanStack Query`
+- **Backend:** `Node.js` `Python` `Express` `FastAPI` `Supabase` `PostgreSQL` `Prisma`
+- **AI/ML:** `LangChain` `LangGraph` `Vector DBs` `OpenAI` `Google Gemini`
+- **DevOps:** `AWS` `Docker` `Vercel` `GCP` `Railway` `CI/CD`
 
-## Let's Connect!
-💬 Ask me about full-stack development, cloud computing, or anything tech-related.
+---
 
-📫 How to reach me: reach out to me on linkedIn or at luigifaldetta@gmail.com
+### 📈 Featured Projects
 
-## Current Stack
+#### [AutoProps - Autonomous Leasing Engine](https://github.com/your-username/autoprops)
+An active logistics engine that automates lead ingestion, AI-driven qualification, and viewing coordination for the residential rental market.
+* *Key Tech:* Inngest (Event-driven), GPT-4o-mini, Haversine Geospatial Logic, Multi-language WhatsApp integration.
 
-<div align="center">
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
-	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/1275d076-f047-432b-9084-308f88f8c176" alt="tRPC" title="tRPC"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-</div>
+#### [BrandinIA School - EdTech SaaS](https://github.com/your-username/brandinia-school)
+A production-grade online education platform with modular course engines and 6 specialized AI assistants.
+* *Key Tech:* React 18, Supabase (Edge Functions), Stripe (EU VAT), Gemini 2.5 Flash, Bunny Stream.
+
+#### [Brandwave - AI Business Management](https://github.com/your-username/brandwave)
+An all-in-one AI ecosystem for marketing, CRM, and finance automation.
+* *Key Tech:* Multi-tenant RBAC, Deno Edge Functions, Social Media APIs, Stripe Billing.
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/luigi-faldetta-software-engineer)
+- **Email:** [luigifaldetta@gmail.com](mailto:luigifaldetta@gmail.com)
+- **Location:** Málaga, Spain 🇪🇸
+
+*"If you need a developer who understands both advanced system design and real-world business use cases, let’s talk."*
 
 
 
