@@ -33,14 +33,14 @@ An active logistics engine that automates lead ingestion, AI-driven qualificatio
 A production-grade online education platform with modular course engines and 6 specialized AI assistants.
 * *Key Tech:* React 18, Supabase (Edge Functions), Stripe (EU VAT), Gemini 2.5 Flash, Bunny Stream.
 
-#### [Brandwave - AI Business Management]([https://github.com/your-username/brandwave](https://www.brandwave.es/))
+#### [Brandwave - AI Business Management](https://www.brandwave.es/)
 An all-in-one AI ecosystem for marketing, CRM, and finance automation.
 * *Key Tech:* Multi-tenant RBAC, Deno Edge Functions, Social Media APIs, Stripe Billing.
 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/luigi-faldetta-software-engineer)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/luigi-faldetta-software-engineer)
 - **Email:** [luigifaldetta@gmail.com](mailto:luigifaldetta@gmail.com)
 - **Location:** Málaga, Spain 🇪🇸
 
