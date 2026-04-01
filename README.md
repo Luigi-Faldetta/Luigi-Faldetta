@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 What I’m Working On
-* **Founder @ Automics:** Architecting intelligent automation engines to eliminate operational friction and transition businesses from manual chaos to scalable, high-performance systems.
-* **Lead Software Engineer @ Brandwave:** Scaling a multi-tenant AI workforce ecosystem. Building complex RAG systems and autonomous agents using **Next.js, Supabase, LangChain, and LangGraph**.
-* **AutoProps:** Developing an autonomous leasing logistics engine that automates the entire rental lifecycle—from 2 AM lead ingestion to property access coordination.
+* **Founder @ [Automics](https://automics.io/):** Architecting intelligent automation engines to eliminate operational friction and transition businesses from manual chaos to scalable, high-performance systems.
+* **Lead Software Engineer @ [Brandwave](https://www.brandwave.es/):** Scaling a multi-tenant AI workforce ecosystem. Building complex RAG systems and autonomous agents using **Next.js, Supabase, LangChain, and LangGraph**.
+* **[AutoProps](https://www.autoprops.ai/):** Developing an autonomous leasing logistics engine that automates the entire rental lifecycle—from 2 AM lead ingestion to property access coordination.
 
 ### 🧠 Core Expertise
 * **AI & Automation:** LangChain, LangGraph, RAG Systems, OpenAI/Gemini Integrations, Vector Databases.
@@ -19,21 +19,21 @@
 - **Frontend:** `React` `Next.js` `TypeScript` `TailwindCSS` `TanStack Query`
 - **Backend:** `Node.js` `Python` `Express` `FastAPI` `Supabase` `PostgreSQL` `Prisma`
 - **AI/ML:** `LangChain` `LangGraph` `Vector DBs` `OpenAI` `Google Gemini`
-- **DevOps:** `AWS` `Docker` `Vercel` `GCP` `Railway` `CI/CD`
+- **DevOps:** `AWS` `Docker` `Vercel`, `AWS`, `GCP`, `Terraform`, `Railway` `CI/CD`
 
 ---
 
 ### 📈 Featured Projects
 
-#### [AutoProps - Autonomous Leasing Engine](https://github.com/your-username/autoprops)
+#### [AutoProps - Autonomous Leasing Engine](https://www.autoprops.ai/)
 An active logistics engine that automates lead ingestion, AI-driven qualification, and viewing coordination for the residential rental market.
 * *Key Tech:* Inngest (Event-driven), GPT-4o-mini, Haversine Geospatial Logic, Multi-language WhatsApp integration.
 
-#### [BrandinIA School - EdTech SaaS](https://github.com/your-username/brandinia-school)
+#### [BrandinIA School - EdTech SaaS](https://www.brandiniaschool.com/)
 A production-grade online education platform with modular course engines and 6 specialized AI assistants.
 * *Key Tech:* React 18, Supabase (Edge Functions), Stripe (EU VAT), Gemini 2.5 Flash, Bunny Stream.
 
-#### [Brandwave - AI Business Management](https://github.com/your-username/brandwave)
+#### [Brandwave - AI Business Management]([https://github.com/your-username/brandwave](https://www.brandwave.es/))
 An all-in-one AI ecosystem for marketing, CRM, and finance automation.
 * *Key Tech:* Multi-tenant RBAC, Deno Edge Functions, Social Media APIs, Stripe Billing.
 
@@ -44,7 +44,7 @@ An all-in-one AI ecosystem for marketing, CRM, and finance automation.
 - **Email:** [luigifaldetta@gmail.com](mailto:luigifaldetta@gmail.com)
 - **Location:** Málaga, Spain 🇪🇸
 
-*"If you need a developer who understands both advanced system design and real-world business use cases, let’s talk."*
+*If you need a developer who understands both advanced system design and real-world business use cases, let’s talk.*
 
 
 
